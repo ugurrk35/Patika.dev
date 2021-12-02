@@ -1,0 +1,14 @@
+body {
+    background-color: #E9ECEF;
+    
+}
+h3 {
+    text-align: center;
+}
+
+.card {
+    margin-top: 10px;
+}
+.about img {
+    max-height: 400px;
+}
