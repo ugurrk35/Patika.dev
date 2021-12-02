@@ -1,0 +1,67 @@
+
+body{
+    font-family:Lucida Grande, Helvetica, Arial, sans-serif;
+    font-size: small;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.container {
+    width: 100%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    
+    justify-content: center;
+    }
+
+
+.logo img {
+    width: 351px;
+    height: 133px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+  
+}
+.search{
+    text-align: center;
+    padding: 5px;
+    background-color: #EEEEEE;
+    margin-bottom:10px
+
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Create three equal columns */
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    height: 80px; /* Should be removed */
+    justify-content: center;
+ 
+  }
+
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  p {
+      text-align: center;
+      padding-top: 20px;
+  }
+  /* Responsive layout */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
