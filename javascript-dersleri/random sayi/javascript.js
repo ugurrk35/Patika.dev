@@ -1,27 +1,12 @@
-'use strict';
+var randomSayi = Math.floor(Math.random()*10 );
 
-process.stdin.resume();
-process.stdin.setEncoding('utf-8');
+//Girdiğimiz sayıyı aklında tutması için prompt değişkene atanır
 
-let inputString = '';
-let currentLine = 0;
+var tahmin = prompt("1-10'a kadar bir sayı gir ve rastgele sayıyı bulmaya çalış!");
 
-process.stdin.on('data', function(inputStdin) {
-    inputString += inputStdin;
-});
-
-process.stdin.on('end', function() {
-    inputString = inputString.split('\n');
-
-    main();
-});
-
-function readLine() {
-    return inputString[currentLine++];
-}
-
-
-
-function main() {
-    const N = parseInt(readLine().trim(), 10);
+if (tahmin === randomSayi && tahmin != null) alert("Bildin!!!");
+else if (tahmin == "") alert("Boş giriş yaptınız!");
+else if (tahmin == null) alert("Giriş yapmaktan vazgeçtiniz!");
+else {
+  alert("Bir daha denee :(, Random sayi: " + randomSayi);
 }
