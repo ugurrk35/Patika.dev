@@ -1,5 +1,5 @@
 # Ödev 1
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) '#### 1.Film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.'
+- ![#f03c15]#### 1.Film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 ```sql
 SELECT title, description FROM film;
 ```
