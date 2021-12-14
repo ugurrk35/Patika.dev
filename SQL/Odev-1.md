@@ -1,5 +1,5 @@
 # Ödev 1
-- ![#f03c15]#### 1.Film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
+- #### 1.Film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 ```sql
 SELECT title, description FROM film;
 ```
