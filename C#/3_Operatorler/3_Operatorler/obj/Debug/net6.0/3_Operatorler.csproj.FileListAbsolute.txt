@@ -1,0 +1,15 @@
+/Users/uk/Documents/GitHub/Patika.dev/C#/3_Operatorler/3_Operatorler/bin/Debug/net6.0/3_Operatorler
+/Users/uk/Documents/GitHub/Patika.dev/C#/3_Operatorler/3_Operatorler/bin/Debug/net6.0/3_Operatorler.deps.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/3_Operatorler/3_Operatorler/bin/Debug/net6.0/3_Operatorler.runtimeconfig.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/3_Operatorler/3_Operatorler/bin/Debug/net6.0/3_Operatorler.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/3_Operatorler/3_Operatorler/bin/Debug/net6.0/ref/3_Operatorler.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/3_Operatorler/3_Operatorler/bin/Debug/net6.0/3_Operatorler.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/3_Operatorler/3_Operatorler/obj/Debug/net6.0/3_Operatorler.csproj.AssemblyReference.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/3_Operatorler/3_Operatorler/obj/Debug/net6.0/3_Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uk/Documents/GitHub/Patika.dev/C#/3_Operatorler/3_Operatorler/obj/Debug/net6.0/3_Operatorler.AssemblyInfoInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/3_Operatorler/3_Operatorler/obj/Debug/net6.0/3_Operatorler.AssemblyInfo.cs
+/Users/uk/Documents/GitHub/Patika.dev/C#/3_Operatorler/3_Operatorler/obj/Debug/net6.0/3_Operatorler.csproj.CoreCompileInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/3_Operatorler/3_Operatorler/obj/Debug/net6.0/3_Operatorler.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/3_Operatorler/3_Operatorler/obj/Debug/net6.0/ref/3_Operatorler.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/3_Operatorler/3_Operatorler/obj/Debug/net6.0/3_Operatorler.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/3_Operatorler/3_Operatorler/obj/Debug/net6.0/3_Operatorler.genruntimeconfig.cache
