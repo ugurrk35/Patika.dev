@@ -1,0 +1,15 @@
+/Users/uk/Documents/GitHub/Patika.dev/C#/1-Console-Programlama/1-Console-Programlama/bin/Debug/net6.0/1-Console-Programlama
+/Users/uk/Documents/GitHub/Patika.dev/C#/1-Console-Programlama/1-Console-Programlama/bin/Debug/net6.0/1-Console-Programlama.deps.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/1-Console-Programlama/1-Console-Programlama/bin/Debug/net6.0/1-Console-Programlama.runtimeconfig.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/1-Console-Programlama/1-Console-Programlama/bin/Debug/net6.0/1-Console-Programlama.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/1-Console-Programlama/1-Console-Programlama/bin/Debug/net6.0/ref/1-Console-Programlama.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/1-Console-Programlama/1-Console-Programlama/bin/Debug/net6.0/1-Console-Programlama.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/1-Console-Programlama/1-Console-Programlama/obj/Debug/net6.0/1-Console-Programlama.csproj.AssemblyReference.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/1-Console-Programlama/1-Console-Programlama/obj/Debug/net6.0/1-Console-Programlama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uk/Documents/GitHub/Patika.dev/C#/1-Console-Programlama/1-Console-Programlama/obj/Debug/net6.0/1-Console-Programlama.AssemblyInfoInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/1-Console-Programlama/1-Console-Programlama/obj/Debug/net6.0/1-Console-Programlama.AssemblyInfo.cs
+/Users/uk/Documents/GitHub/Patika.dev/C#/1-Console-Programlama/1-Console-Programlama/obj/Debug/net6.0/1-Console-Programlama.csproj.CoreCompileInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/1-Console-Programlama/1-Console-Programlama/obj/Debug/net6.0/1-Console-Programlama.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/1-Console-Programlama/1-Console-Programlama/obj/Debug/net6.0/ref/1-Console-Programlama.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/1-Console-Programlama/1-Console-Programlama/obj/Debug/net6.0/1-Console-Programlama.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/1-Console-Programlama/1-Console-Programlama/obj/Debug/net6.0/1-Console-Programlama.genruntimeconfig.cache
