@@ -1,0 +1,15 @@
+/Users/uk/Documents/GitHub/Patika.dev/C#/2_Degiskenler/2_Degiskenler/bin/Debug/net6.0/2_Degiskenler
+/Users/uk/Documents/GitHub/Patika.dev/C#/2_Degiskenler/2_Degiskenler/bin/Debug/net6.0/2_Degiskenler.deps.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/2_Degiskenler/2_Degiskenler/bin/Debug/net6.0/2_Degiskenler.runtimeconfig.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/2_Degiskenler/2_Degiskenler/bin/Debug/net6.0/2_Degiskenler.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/2_Degiskenler/2_Degiskenler/bin/Debug/net6.0/ref/2_Degiskenler.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/2_Degiskenler/2_Degiskenler/bin/Debug/net6.0/2_Degiskenler.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/2_Degiskenler/2_Degiskenler/obj/Debug/net6.0/2_Degiskenler.csproj.AssemblyReference.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/2_Degiskenler/2_Degiskenler/obj/Debug/net6.0/2_Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uk/Documents/GitHub/Patika.dev/C#/2_Degiskenler/2_Degiskenler/obj/Debug/net6.0/2_Degiskenler.AssemblyInfoInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/2_Degiskenler/2_Degiskenler/obj/Debug/net6.0/2_Degiskenler.AssemblyInfo.cs
+/Users/uk/Documents/GitHub/Patika.dev/C#/2_Degiskenler/2_Degiskenler/obj/Debug/net6.0/2_Degiskenler.csproj.CoreCompileInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/2_Degiskenler/2_Degiskenler/obj/Debug/net6.0/2_Degiskenler.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/2_Degiskenler/2_Degiskenler/obj/Debug/net6.0/ref/2_Degiskenler.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/2_Degiskenler/2_Degiskenler/obj/Debug/net6.0/2_Degiskenler.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/2_Degiskenler/2_Degiskenler/obj/Debug/net6.0/2_Degiskenler.genruntimeconfig.cache
