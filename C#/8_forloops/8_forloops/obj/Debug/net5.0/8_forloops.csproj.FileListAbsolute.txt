@@ -1,0 +1,16 @@
+/Users/uk/Documents/GitHub/Patika.dev/C#/8_forloops/8_forloops/bin/Debug/net5.0/8_forloops
+/Users/uk/Documents/GitHub/Patika.dev/C#/8_forloops/8_forloops/bin/Debug/net5.0/8_forloops.deps.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/8_forloops/8_forloops/bin/Debug/net5.0/8_forloops.runtimeconfig.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/8_forloops/8_forloops/bin/Debug/net5.0/8_forloops.runtimeconfig.dev.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/8_forloops/8_forloops/bin/Debug/net5.0/8_forloops.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/8_forloops/8_forloops/bin/Debug/net5.0/ref/8_forloops.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/8_forloops/8_forloops/bin/Debug/net5.0/8_forloops.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/8_forloops/8_forloops/obj/Debug/net5.0/8_forloops.csproj.AssemblyReference.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/8_forloops/8_forloops/obj/Debug/net5.0/8_forloops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uk/Documents/GitHub/Patika.dev/C#/8_forloops/8_forloops/obj/Debug/net5.0/8_forloops.AssemblyInfoInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/8_forloops/8_forloops/obj/Debug/net5.0/8_forloops.AssemblyInfo.cs
+/Users/uk/Documents/GitHub/Patika.dev/C#/8_forloops/8_forloops/obj/Debug/net5.0/8_forloops.csproj.CoreCompileInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/8_forloops/8_forloops/obj/Debug/net5.0/8_forloops.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/8_forloops/8_forloops/obj/Debug/net5.0/ref/8_forloops.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/8_forloops/8_forloops/obj/Debug/net5.0/8_forloops.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/8_forloops/8_forloops/obj/Debug/net5.0/8_forloops.genruntimeconfig.cache
