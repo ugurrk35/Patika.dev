@@ -1,0 +1,16 @@
+/Users/uk/Documents/GitHub/Patika.dev/C#/5_HataYonetimi/5_HataYonetimi/obj/Debug/net5.0/5_HataYonetimi.csproj.AssemblyReference.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/5_HataYonetimi/5_HataYonetimi/obj/Debug/net5.0/5_HataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uk/Documents/GitHub/Patika.dev/C#/5_HataYonetimi/5_HataYonetimi/obj/Debug/net5.0/5_HataYonetimi.AssemblyInfoInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/5_HataYonetimi/5_HataYonetimi/obj/Debug/net5.0/5_HataYonetimi.AssemblyInfo.cs
+/Users/uk/Documents/GitHub/Patika.dev/C#/5_HataYonetimi/5_HataYonetimi/obj/Debug/net5.0/5_HataYonetimi.csproj.CoreCompileInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/5_HataYonetimi/5_HataYonetimi/bin/Debug/net5.0/5_HataYonetimi
+/Users/uk/Documents/GitHub/Patika.dev/C#/5_HataYonetimi/5_HataYonetimi/bin/Debug/net5.0/5_HataYonetimi.deps.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/5_HataYonetimi/5_HataYonetimi/bin/Debug/net5.0/5_HataYonetimi.runtimeconfig.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/5_HataYonetimi/5_HataYonetimi/bin/Debug/net5.0/5_HataYonetimi.runtimeconfig.dev.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/5_HataYonetimi/5_HataYonetimi/bin/Debug/net5.0/5_HataYonetimi.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/5_HataYonetimi/5_HataYonetimi/bin/Debug/net5.0/ref/5_HataYonetimi.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/5_HataYonetimi/5_HataYonetimi/bin/Debug/net5.0/5_HataYonetimi.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/5_HataYonetimi/5_HataYonetimi/obj/Debug/net5.0/5_HataYonetimi.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/5_HataYonetimi/5_HataYonetimi/obj/Debug/net5.0/ref/5_HataYonetimi.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/5_HataYonetimi/5_HataYonetimi/obj/Debug/net5.0/5_HataYonetimi.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/5_HataYonetimi/5_HataYonetimi/obj/Debug/net5.0/5_HataYonetimi.genruntimeconfig.cache

@@ -1,12 +1,15 @@
 ﻿<Properties StartupConfiguration="{32AB302E-9542-43FA-8E58-0B2B38E80618}|Default">
   <MonoDevelop.Ide.ItemProperties.4__TipDonusumleri PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="4_TipDonusumleri/Program.cs">
     <Files>
-      <File FileName="4_TipDonusumleri/Program.cs" Line="59" Column="20" />
+      <File FileName="4_TipDonusumleri/Program.cs" Line="21" Column="1" />
+      <File FileName="4_TipDonusumleri.sln" Line="1" Column="1" />
+      <File FileName="4_TipDonusumleri/4_TipDonusumleri.csproj" Line="7" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
           <Node name="4_TipDonusumleri" expanded="True">
             <Node name="4_TipDonusumleri" expanded="True">
               <Node name="Dependencies" expanded="True" />
@@ -20,7 +23,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
