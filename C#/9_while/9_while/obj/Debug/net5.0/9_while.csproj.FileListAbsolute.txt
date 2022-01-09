@@ -1,0 +1,16 @@
+/Users/uk/Documents/GitHub/Patika.dev/C#/9_while/9_while/bin/Debug/net5.0/9_while
+/Users/uk/Documents/GitHub/Patika.dev/C#/9_while/9_while/bin/Debug/net5.0/9_while.deps.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/9_while/9_while/bin/Debug/net5.0/9_while.runtimeconfig.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/9_while/9_while/bin/Debug/net5.0/9_while.runtimeconfig.dev.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/9_while/9_while/bin/Debug/net5.0/9_while.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/9_while/9_while/bin/Debug/net5.0/ref/9_while.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/9_while/9_while/bin/Debug/net5.0/9_while.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/9_while/9_while/obj/Debug/net5.0/9_while.csproj.AssemblyReference.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/9_while/9_while/obj/Debug/net5.0/9_while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uk/Documents/GitHub/Patika.dev/C#/9_while/9_while/obj/Debug/net5.0/9_while.AssemblyInfoInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/9_while/9_while/obj/Debug/net5.0/9_while.AssemblyInfo.cs
+/Users/uk/Documents/GitHub/Patika.dev/C#/9_while/9_while/obj/Debug/net5.0/9_while.csproj.CoreCompileInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/9_while/9_while/obj/Debug/net5.0/9_while.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/9_while/9_while/obj/Debug/net5.0/ref/9_while.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/9_while/9_while/obj/Debug/net5.0/9_while.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/9_while/9_while/obj/Debug/net5.0/9_while.genruntimeconfig.cache

@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{C39D94B5-F7F4-47CE-92D4-17B3398F301A}|Default">
-  <MonoDevelop.Ide.ItemProperties.8__forloops FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.8__forloops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="8_forloops/Program.cs">
+    <Files>
+      <File FileName="8_forloops/Program.cs" Line="49" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="8_forloops" expanded="True">
+            <Node name="8_forloops" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
