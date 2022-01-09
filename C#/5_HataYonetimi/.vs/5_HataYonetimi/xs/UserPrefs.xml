@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{01A6CECD-1467-43A2-B02B-128194560B81}|Default">
-  <MonoDevelop.Ide.ItemProperties.5__HataYonetimi FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="5_HataYonetimi/Program.cs">
+    <Files>
+      <File FileName="5_HataYonetimi/Program.cs" Line="53" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="5_HataYonetimi" expanded="True">
+            <Node name="5_HataYonetimi" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.5__HataYonetimi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

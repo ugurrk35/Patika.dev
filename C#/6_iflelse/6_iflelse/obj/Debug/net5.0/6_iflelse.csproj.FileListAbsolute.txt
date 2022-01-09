@@ -1,0 +1,16 @@
+/Users/uk/Documents/GitHub/Patika.dev/C#/6_iflelse/6_iflelse/bin/Debug/net5.0/6_iflelse
+/Users/uk/Documents/GitHub/Patika.dev/C#/6_iflelse/6_iflelse/bin/Debug/net5.0/6_iflelse.deps.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/6_iflelse/6_iflelse/bin/Debug/net5.0/6_iflelse.runtimeconfig.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/6_iflelse/6_iflelse/bin/Debug/net5.0/6_iflelse.runtimeconfig.dev.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/6_iflelse/6_iflelse/bin/Debug/net5.0/6_iflelse.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/6_iflelse/6_iflelse/bin/Debug/net5.0/ref/6_iflelse.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/6_iflelse/6_iflelse/bin/Debug/net5.0/6_iflelse.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/6_iflelse/6_iflelse/obj/Debug/net5.0/6_iflelse.csproj.AssemblyReference.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/6_iflelse/6_iflelse/obj/Debug/net5.0/6_iflelse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uk/Documents/GitHub/Patika.dev/C#/6_iflelse/6_iflelse/obj/Debug/net5.0/6_iflelse.AssemblyInfoInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/6_iflelse/6_iflelse/obj/Debug/net5.0/6_iflelse.AssemblyInfo.cs
+/Users/uk/Documents/GitHub/Patika.dev/C#/6_iflelse/6_iflelse/obj/Debug/net5.0/6_iflelse.csproj.CoreCompileInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/6_iflelse/6_iflelse/obj/Debug/net5.0/6_iflelse.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/6_iflelse/6_iflelse/obj/Debug/net5.0/ref/6_iflelse.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/6_iflelse/6_iflelse/obj/Debug/net5.0/6_iflelse.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/6_iflelse/6_iflelse/obj/Debug/net5.0/6_iflelse.genruntimeconfig.cache
