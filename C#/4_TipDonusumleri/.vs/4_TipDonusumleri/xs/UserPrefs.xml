@@ -1,13 +1,16 @@
-﻿<Properties StartupConfiguration="{724995FC-2E17-4566-A96C-93A7E3087EFB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="3_Operatorler/Program.cs">
+﻿<Properties StartupConfiguration="{32AB302E-9542-43FA-8E58-0B2B38E80618}|Default">
+  <MonoDevelop.Ide.ItemProperties.4__TipDonusumleri PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="3_Operatorler/Program.cs" Line="53" Column="27" />
+      <File FileName="4_TipDonusumleri/Program.cs" Line="59" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="3_Operatorler" expanded="True">
-            <Node name="3_Operatorler" expanded="True" />
+          <Node name="4_TipDonusumleri" expanded="True">
+            <Node name="4_TipDonusumleri" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -17,7 +20,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.3__Operatorler PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

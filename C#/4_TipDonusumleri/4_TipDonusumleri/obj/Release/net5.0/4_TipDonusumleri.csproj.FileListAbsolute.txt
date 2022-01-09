@@ -1,0 +1,16 @@
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/obj/Release/net5.0/4_TipDonusumleri.csproj.AssemblyReference.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/obj/Release/net5.0/4_TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/obj/Release/net5.0/4_TipDonusumleri.AssemblyInfoInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/obj/Release/net5.0/4_TipDonusumleri.AssemblyInfo.cs
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/obj/Release/net5.0/4_TipDonusumleri.csproj.CoreCompileInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/bin/Release/net5.0/4_TipDonusumleri
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/bin/Release/net5.0/4_TipDonusumleri.deps.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/bin/Release/net5.0/4_TipDonusumleri.runtimeconfig.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/bin/Release/net5.0/4_TipDonusumleri.runtimeconfig.dev.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/bin/Release/net5.0/4_TipDonusumleri.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/bin/Release/net5.0/ref/4_TipDonusumleri.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/bin/Release/net5.0/4_TipDonusumleri.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/obj/Release/net5.0/4_TipDonusumleri.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/obj/Release/net5.0/ref/4_TipDonusumleri.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/obj/Release/net5.0/4_TipDonusumleri.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/obj/Release/net5.0/4_TipDonusumleri.genruntimeconfig.cache

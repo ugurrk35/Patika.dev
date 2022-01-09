@@ -1,0 +1,5 @@
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/obj/Debug/net6.0/4_TipDonusumleri.csproj.AssemblyReference.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/obj/Debug/net6.0/4_TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/obj/Debug/net6.0/4_TipDonusumleri.AssemblyInfoInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/obj/Debug/net6.0/4_TipDonusumleri.AssemblyInfo.cs
+/Users/uk/Documents/GitHub/Patika.dev/C#/4_TipDonusumleri/4_TipDonusumleri/obj/Debug/net6.0/4_TipDonusumleri.csproj.CoreCompileInputs.cache
