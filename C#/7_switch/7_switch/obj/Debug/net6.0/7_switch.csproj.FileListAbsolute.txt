@@ -1,0 +1,15 @@
+/Users/uk/Documents/GitHub/Patika.dev/C#/7_switch/7_switch/bin/Debug/net6.0/7_switch
+/Users/uk/Documents/GitHub/Patika.dev/C#/7_switch/7_switch/bin/Debug/net6.0/7_switch.deps.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/7_switch/7_switch/bin/Debug/net6.0/7_switch.runtimeconfig.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/7_switch/7_switch/bin/Debug/net6.0/7_switch.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/7_switch/7_switch/bin/Debug/net6.0/ref/7_switch.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/7_switch/7_switch/bin/Debug/net6.0/7_switch.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/7_switch/7_switch/obj/Debug/net6.0/7_switch.csproj.AssemblyReference.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/7_switch/7_switch/obj/Debug/net6.0/7_switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uk/Documents/GitHub/Patika.dev/C#/7_switch/7_switch/obj/Debug/net6.0/7_switch.AssemblyInfoInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/7_switch/7_switch/obj/Debug/net6.0/7_switch.AssemblyInfo.cs
+/Users/uk/Documents/GitHub/Patika.dev/C#/7_switch/7_switch/obj/Debug/net6.0/7_switch.csproj.CoreCompileInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/7_switch/7_switch/obj/Debug/net6.0/7_switch.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/7_switch/7_switch/obj/Debug/net6.0/ref/7_switch.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/7_switch/7_switch/obj/Debug/net6.0/7_switch.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/7_switch/7_switch/obj/Debug/net6.0/7_switch.genruntimeconfig.cache
