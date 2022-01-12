@@ -1,0 +1,16 @@
+/Users/uk/Documents/GitHub/Patika.dev/C#/11_dizimethod/11_dizimethod/bin/Debug/net5.0/11_dizimethod
+/Users/uk/Documents/GitHub/Patika.dev/C#/11_dizimethod/11_dizimethod/bin/Debug/net5.0/11_dizimethod.deps.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/11_dizimethod/11_dizimethod/bin/Debug/net5.0/11_dizimethod.runtimeconfig.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/11_dizimethod/11_dizimethod/bin/Debug/net5.0/11_dizimethod.runtimeconfig.dev.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/11_dizimethod/11_dizimethod/bin/Debug/net5.0/11_dizimethod.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/11_dizimethod/11_dizimethod/bin/Debug/net5.0/ref/11_dizimethod.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/11_dizimethod/11_dizimethod/bin/Debug/net5.0/11_dizimethod.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/11_dizimethod/11_dizimethod/obj/Debug/net5.0/11_dizimethod.csproj.AssemblyReference.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/11_dizimethod/11_dizimethod/obj/Debug/net5.0/11_dizimethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uk/Documents/GitHub/Patika.dev/C#/11_dizimethod/11_dizimethod/obj/Debug/net5.0/11_dizimethod.AssemblyInfoInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/11_dizimethod/11_dizimethod/obj/Debug/net5.0/11_dizimethod.AssemblyInfo.cs
+/Users/uk/Documents/GitHub/Patika.dev/C#/11_dizimethod/11_dizimethod/obj/Debug/net5.0/11_dizimethod.csproj.CoreCompileInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/11_dizimethod/11_dizimethod/obj/Debug/net5.0/11_dizimethod.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/11_dizimethod/11_dizimethod/obj/Debug/net5.0/ref/11_dizimethod.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/11_dizimethod/11_dizimethod/obj/Debug/net5.0/11_dizimethod.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/11_dizimethod/11_dizimethod/obj/Debug/net5.0/11_dizimethod.genruntimeconfig.cache
