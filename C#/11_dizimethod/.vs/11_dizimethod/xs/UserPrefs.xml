@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{18DA15C1-3CD8-42DF-ADB5-CF1CC0176884}|Default">
-  <MonoDevelop.Ide.ItemProperties.11__dizimethod FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="11_dizimethod/Program.cs">
+    <Files>
+      <File FileName="11_dizimethod/Program.cs" Line="53" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="11_dizimethod" expanded="True">
+            <Node name="11_dizimethod" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.11__dizimethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
