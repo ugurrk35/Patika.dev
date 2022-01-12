@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{F2208846-31FE-4F75-B2EB-538CB4FAFD27}|Default">
-  <MonoDevelop.Ide.ItemProperties.9__while FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="9_while/Program.cs">
+    <Files>
+      <File FileName="9_while/Program.cs" Line="37" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="9_while" expanded="True">
+            <Node name="9_while" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.9__while PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

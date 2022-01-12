@@ -1,0 +1,16 @@
+/Users/uk/Documents/GitHub/Patika.dev/C#/10_Diziler/10_Diziler/bin/Debug/net5.0/10_Diziler
+/Users/uk/Documents/GitHub/Patika.dev/C#/10_Diziler/10_Diziler/bin/Debug/net5.0/10_Diziler.deps.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/10_Diziler/10_Diziler/bin/Debug/net5.0/10_Diziler.runtimeconfig.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/10_Diziler/10_Diziler/bin/Debug/net5.0/10_Diziler.runtimeconfig.dev.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/10_Diziler/10_Diziler/bin/Debug/net5.0/10_Diziler.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/10_Diziler/10_Diziler/bin/Debug/net5.0/ref/10_Diziler.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/10_Diziler/10_Diziler/bin/Debug/net5.0/10_Diziler.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/10_Diziler/10_Diziler/obj/Debug/net5.0/10_Diziler.csproj.AssemblyReference.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/10_Diziler/10_Diziler/obj/Debug/net5.0/10_Diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uk/Documents/GitHub/Patika.dev/C#/10_Diziler/10_Diziler/obj/Debug/net5.0/10_Diziler.AssemblyInfoInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/10_Diziler/10_Diziler/obj/Debug/net5.0/10_Diziler.AssemblyInfo.cs
+/Users/uk/Documents/GitHub/Patika.dev/C#/10_Diziler/10_Diziler/obj/Debug/net5.0/10_Diziler.csproj.CoreCompileInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/10_Diziler/10_Diziler/obj/Debug/net5.0/10_Diziler.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/10_Diziler/10_Diziler/obj/Debug/net5.0/ref/10_Diziler.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/10_Diziler/10_Diziler/obj/Debug/net5.0/10_Diziler.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/10_Diziler/10_Diziler/obj/Debug/net5.0/10_Diziler.genruntimeconfig.cache
