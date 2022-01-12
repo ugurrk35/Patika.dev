@@ -1,0 +1,16 @@
+/Users/uk/Documents/GitHub/Patika.dev/C#/12_methods/12_methods/bin/Debug/net5.0/12_methods
+/Users/uk/Documents/GitHub/Patika.dev/C#/12_methods/12_methods/bin/Debug/net5.0/12_methods.deps.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/12_methods/12_methods/bin/Debug/net5.0/12_methods.runtimeconfig.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/12_methods/12_methods/bin/Debug/net5.0/12_methods.runtimeconfig.dev.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/12_methods/12_methods/bin/Debug/net5.0/12_methods.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/12_methods/12_methods/bin/Debug/net5.0/ref/12_methods.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/12_methods/12_methods/bin/Debug/net5.0/12_methods.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/12_methods/12_methods/obj/Debug/net5.0/12_methods.csproj.AssemblyReference.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/12_methods/12_methods/obj/Debug/net5.0/12_methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uk/Documents/GitHub/Patika.dev/C#/12_methods/12_methods/obj/Debug/net5.0/12_methods.AssemblyInfoInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/12_methods/12_methods/obj/Debug/net5.0/12_methods.AssemblyInfo.cs
+/Users/uk/Documents/GitHub/Patika.dev/C#/12_methods/12_methods/obj/Debug/net5.0/12_methods.csproj.CoreCompileInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/12_methods/12_methods/obj/Debug/net5.0/12_methods.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/12_methods/12_methods/obj/Debug/net5.0/ref/12_methods.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/12_methods/12_methods/obj/Debug/net5.0/12_methods.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/12_methods/12_methods/obj/Debug/net5.0/12_methods.genruntimeconfig.cache
