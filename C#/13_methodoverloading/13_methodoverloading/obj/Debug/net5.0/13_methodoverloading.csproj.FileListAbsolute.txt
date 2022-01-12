@@ -1,0 +1,16 @@
+/Users/uk/Documents/GitHub/Patika.dev/C#/13_methodoverloading/13_methodoverloading/bin/Debug/net5.0/13_methodoverloading
+/Users/uk/Documents/GitHub/Patika.dev/C#/13_methodoverloading/13_methodoverloading/bin/Debug/net5.0/13_methodoverloading.deps.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/13_methodoverloading/13_methodoverloading/bin/Debug/net5.0/13_methodoverloading.runtimeconfig.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/13_methodoverloading/13_methodoverloading/bin/Debug/net5.0/13_methodoverloading.runtimeconfig.dev.json
+/Users/uk/Documents/GitHub/Patika.dev/C#/13_methodoverloading/13_methodoverloading/bin/Debug/net5.0/13_methodoverloading.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/13_methodoverloading/13_methodoverloading/bin/Debug/net5.0/ref/13_methodoverloading.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/13_methodoverloading/13_methodoverloading/bin/Debug/net5.0/13_methodoverloading.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/13_methodoverloading/13_methodoverloading/obj/Debug/net5.0/13_methodoverloading.csproj.AssemblyReference.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/13_methodoverloading/13_methodoverloading/obj/Debug/net5.0/13_methodoverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uk/Documents/GitHub/Patika.dev/C#/13_methodoverloading/13_methodoverloading/obj/Debug/net5.0/13_methodoverloading.AssemblyInfoInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/13_methodoverloading/13_methodoverloading/obj/Debug/net5.0/13_methodoverloading.AssemblyInfo.cs
+/Users/uk/Documents/GitHub/Patika.dev/C#/13_methodoverloading/13_methodoverloading/obj/Debug/net5.0/13_methodoverloading.csproj.CoreCompileInputs.cache
+/Users/uk/Documents/GitHub/Patika.dev/C#/13_methodoverloading/13_methodoverloading/obj/Debug/net5.0/13_methodoverloading.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/13_methodoverloading/13_methodoverloading/obj/Debug/net5.0/ref/13_methodoverloading.dll
+/Users/uk/Documents/GitHub/Patika.dev/C#/13_methodoverloading/13_methodoverloading/obj/Debug/net5.0/13_methodoverloading.pdb
+/Users/uk/Documents/GitHub/Patika.dev/C#/13_methodoverloading/13_methodoverloading/obj/Debug/net5.0/13_methodoverloading.genruntimeconfig.cache
